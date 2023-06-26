@@ -46,7 +46,7 @@ jupyter notebook
 
 ![Anaconda](https://github.com/lilianahernandezroa/EstimadorIngresosBogota/blob/main/2_Ejecucion_Anaconda.jpg)
 
-Seguido a esto se debe abrir en un navegador la siguiente ventana, por favor abrir el archivo resaltado en amarillo:
+Seguido a esto se debe abrir en un navegador la siguiente ventana; por favor abrir el archivo resaltado en amarillo:
 ![Estimador](https://github.com/lilianahernandezroa/EstimadorIngresosBogota/blob/main/2_Ejecucion_Estimador.jpg)
 
 Para ejecutar la herramienta se hace click en la opción que se resalta en amarillo:
